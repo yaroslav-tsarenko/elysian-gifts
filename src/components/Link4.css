@@ -1,0 +1,51 @@
+.icon-home-contactsalessvg {
+  width: 75px;
+  height: 75px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.corporate-sales-enquiry {
+  position: relative;
+  line-height: 24px;
+}
+.purchasing-digital-gift {
+  font-family: "Open Sans";
+}
+.i-wish-to-container {
+  position: relative;
+  font-size: 14px;
+  line-height: 21px;
+  display: inline-block;
+  max-width: 100%;
+  font-family: Inter;
+}
+.link10 {
+  flex: 1;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 12px;
+  background-color: #fff;
+  border: 2px solid #fff;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 29px 20px 29px 32px;
+  gap: 24px;
+  min-width: 351px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 20px;
+  color: #000;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 450px) {
+  .corporate-sales-enquiry {
+    font-size: 16px;
+    line-height: 19px;
+  }
+  .link10 {
+    min-width: 100%;
+  }
+}

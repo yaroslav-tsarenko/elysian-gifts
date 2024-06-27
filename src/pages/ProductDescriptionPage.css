@@ -1,0 +1,562 @@
+.image-10-icon {
+  align-self: stretch;
+  height: 452px;
+  position: relative;
+  border-radius: 20px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.about-this-gift {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Inter;
+  color: #545454;
+  text-align: left;
+}
+.tab-icon {
+  height: 7.8px;
+  width: 15.7px;
+  position: relative;
+  object-fit: contain;
+}
+.product-description-tab-names {
+  align-self: stretch;
+  border-radius: 8px;
+  border: 1px solid #787878;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 22px 30px;
+  gap: 20px;
+}
+.how-to-use {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Inter;
+  color: #545454;
+  text-align: left;
+  display: inline-block;
+  min-width: 88px;
+}
+.product-description-tab-names-child {
+  height: 7.8px;
+  width: 15.7px;
+  position: relative;
+  object-fit: contain;
+}
+.product-description-tab-names1 {
+  align-self: stretch;
+  border-radius: 8px;
+  border: 1px solid #787878;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 22px 30px;
+  gap: 20px;
+}
+.brands-included-in {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Inter;
+  color: #545454;
+  text-align: left;
+}
+.product-description-tab-names-item {
+  height: 7.8px;
+  width: 15.7px;
+  position: relative;
+  object-fit: contain;
+}
+.product-description-tab-names2 {
+  align-self: stretch;
+  border-radius: 8px;
+  border: 1px solid #787878;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 22px 30px;
+  gap: 20px;
+}
+.terms-conditions {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Inter;
+  color: #545454;
+  text-align: left;
+}
+.product-description-tab-names-inner {
+  height: 7.8px;
+  width: 15.7px;
+  position: relative;
+  object-fit: contain;
+}
+.product-description-tab-names3 {
+  align-self: stretch;
+  border-radius: 8px;
+  border: 1px solid #787878;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 22px 30px;
+  gap: 20px;
+}
+.discover-the-perfect,
+.note {
+  position: relative;
+  color: #a7a7a7;
+  text-align: left;
+}
+.note {
+  font-size: 18px;
+  line-height: 22px;
+  display: inline-block;
+  font-family: Almarai;
+  min-width: 46px;
+}
+.discover-the-perfect {
+  align-self: stretch;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Inter;
+}
+.note-parent {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 16px;
+}
+.image-10-parent,
+.note-parent,
+.product-description-tab-names-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.product-description-tab-names-parent {
+  align-self: stretch;
+  align-items: center;
+  gap: 27px;
+}
+.image-10-parent {
+  width: 689px;
+  align-items: flex-start;
+  padding: 80px 0;
+  box-sizing: border-box;
+  gap: 66px;
+  min-width: 689px;
+  max-width: 100%;
+}
+.best-buy-gift,
+.introducing-the-shoes {
+  align-self: stretch;
+  position: relative;
+  color: #545454;
+  text-align: left;
+}
+.best-buy-gift {
+  margin: 0;
+  font-size: 32px;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: Almarai;
+}
+.introducing-the-shoes {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Inter;
+}
+.best-buy-gift-card-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.i-would-like {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Inter;
+  color: #545454;
+  text-align: left;
+  display: inline-block;
+  min-width: 114px;
+}
+.recipient-button {
+  height: 58px;
+  flex: 1;
+  min-width: 100px;
+}
+.recipient-button1 {
+  height: 58px;
+  width: 143px;
+}
+.recipient-button-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.i-would-like-to-parent {
+  width: 321px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 24px;
+  max-width: 100%;
+}
+.gift-card-worth,
+.usd-200 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Inter;
+  color: #545454;
+  text-align: left;
+  display: inline-block;
+  min-width: 124px;
+}
+.usd-200 {
+  color: #6c63ff;
+  min-width: 78px;
+}
+.gift-card-value-button {
+  border-radius: 10px;
+  border: 1px solid #6c63ff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16px 29px;
+  white-space: nowrap;
+}
+.gift-card-value-button1 {
+  height: 58px;
+  flex: 1;
+  min-width: 90px;
+}
+.usd-700 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Inter;
+  color: #6c63ff;
+  text-align: left;
+  display: inline-block;
+  min-width: 78px;
+}
+.gift-card-value-button2 {
+  border-radius: 10px;
+  border: 1px solid #6c63ff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16px 29px;
+  white-space: nowrap;
+}
+.gift-card-value-button3 {
+  height: 58px;
+  flex: 1;
+  min-width: 95px;
+}
+.gift-card-value-button-parent,
+.gift-card-worth-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 24px;
+}
+.gift-card-value-button-parent {
+  align-self: stretch;
+  flex-direction: row;
+}
+.gift-card-worth-parent {
+  width: 632px;
+  flex-direction: column;
+  max-width: 100%;
+}
+.select-your-quantity {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Inter;
+  color: #545454;
+  text-align: left;
+}
+.quantity-button-child {
+  align-self: stretch;
+  width: 48px;
+  position: relative;
+  border-radius: 10px;
+  background-color: #6c63ff;
+  display: none;
+  z-index: 0;
+}
+.add-icon {
+  height: 19px;
+  width: 19px;
+  position: absolute;
+  margin: 0 !important;
+  top: 17px;
+  left: 14px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.quantity-button {
+  height: 50px;
+  width: 48px;
+  border-radius: 10px;
+  background-color: #6c63ff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  gap: 10px;
+}
+.quantity-value {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Inter;
+  color: #545454;
+  text-align: center;
+  display: inline-block;
+  min-width: 11px;
+}
+.quantity-value-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14px 0 0;
+}
+.quantity-button-item {
+  height: 50px;
+  width: 48px;
+  position: relative;
+  border-radius: 10px;
+  background-color: #6c63ff;
+  display: none;
+}
+.quantity-icon {
+  width: 11.7px;
+  height: 1.7px;
+  position: relative;
+}
+.quantity-icon-wrapper {
+  height: 4.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px;
+  box-sizing: border-box;
+  z-index: 1;
+}
+.quantity-button-parent,
+.quantity-button1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.quantity-button1 {
+  width: 48px;
+  border-radius: 10px;
+  background-color: #6c63ff;
+  justify-content: flex-start;
+  padding: 25px 16px 20.7px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.quantity-button-parent {
+  align-self: stretch;
+  border-radius: 40px;
+  background-color: #f4f1ff;
+  justify-content: space-between;
+  gap: 20px;
+}
+.select-your-quantity-parent {
+  width: 155px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.button {
+  align-self: stretch;
+  height: 76px;
+}
+.frame-container,
+.frame-div {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-div {
+  align-self: stretch;
+  gap: 48px;
+}
+.frame-container {
+  flex: 1;
+  padding: 80px 0 0;
+  box-sizing: border-box;
+  min-width: 529px;
+}
+.frame-group,
+.frame-wrapper {
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.frame-group {
+  margin: 0;
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  gap: 66px;
+  max-width: 100%;
+}
+.frame-wrapper {
+  align-self: stretch;
+  padding: 0 55px;
+  box-sizing: border-box;
+}
+.frame-parent,
+.frame-wrapper,
+.productdescriptionpage-inner {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent {
+  width: 1680px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 80px;
+}
+.productdescriptionpage-inner {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px 80px;
+  box-sizing: border-box;
+}
+.productdescriptionpage {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1400px) {
+  .image-10-parent {
+    flex: 1;
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+  .frame-group {
+    flex-wrap: wrap;
+  }
+  .frame-wrapper {
+    padding-left: 27px;
+    padding-right: 27px;
+    box-sizing: border-box;
+  }
+  .productdescriptionpage-inner {
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .image-10-parent {
+    min-width: 100%;
+  }
+  .productdescriptionpage-inner {
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 825px) {
+  .image-10-parent {
+    gap: 33px;
+    padding-top: 34px;
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+  .best-buy-gift {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .gift-card-value-button-parent {
+    flex-wrap: wrap;
+  }
+  .frame-container {
+    padding-top: 52px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .frame-group {
+    gap: 33px;
+  }
+  .frame-parent {
+    gap: 40px;
+  }
+  .productdescriptionpage-inner {
+    padding-bottom: 22px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .image-10-parent {
+    gap: 16px;
+  }
+  .best-buy-gift {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .recipient-button-parent {
+    flex-wrap: wrap;
+  }
+  .button {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .frame-div {
+    gap: 24px;
+  }
+  .frame-container {
+    padding-top: 34px;
+    box-sizing: border-box;
+  }
+  .frame-group {
+    gap: 16px;
+  }
+  .frame-parent {
+    gap: 20px;
+  }
+}

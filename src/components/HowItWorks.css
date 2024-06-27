@@ -1,0 +1,351 @@
+.heading-22 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 49px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.how-it-works-title {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.what-emailpng-icon {
+  height: 175.3px;
+  width: 302px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.background5 {
+  align-self: stretch;
+  border-radius: 12px;
+  background-color: #6c63ff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.div3 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 8px;
+}
+.background-wrapper,
+.background6 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.background6 {
+  width: 35px;
+  border-radius: 17.5px;
+  background-color: #061121;
+  justify-content: flex-start;
+  padding: 5.3px 12px 7.7px;
+  box-sizing: border-box;
+}
+.background-wrapper {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 20px 0 21px;
+}
+.send-an-egift {
+  position: relative;
+  line-height: 22px;
+  color: #1b1c1e;
+}
+.step-content {
+  width: 210px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 19px;
+}
+.step-content-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 1px 0 0;
+}
+.backgroundshadow {
+  flex: 1;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+  background-color: rgba(215, 212, 255, 0.5);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 24px 24px 63.7px;
+  box-sizing: border-box;
+  gap: 28px;
+  min-width: 408px;
+  max-width: 100%;
+}
+.what-redeem-poundspng-icon {
+  height: 175.3px;
+  width: 302px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.background7 {
+  align-self: stretch;
+  border-radius: 12px;
+  background-color: #6c63ff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.div4 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 10px;
+}
+.background-container,
+.background8 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.background8 {
+  width: 35px;
+  border-radius: 17.5px;
+  background-color: #061121;
+  justify-content: flex-start;
+  padding: 5.3px 11px 7.7px;
+  box-sizing: border-box;
+}
+.background-container {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 20px 0 22px;
+}
+.gift-from-50,
+.recipients-choose-where {
+  margin: 0;
+}
+.recipients-choose-where-container {
+  position: relative;
+  line-height: 135%;
+  color: #1b1c1e;
+}
+.frame-parent3 {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 18px;
+}
+.backgroundshadow-inner {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 2px 0 0;
+}
+.backgroundshadow1 {
+  flex: 1;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+  background-color: rgba(215, 212, 255, 0.5);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 24px 24px 42.5px;
+  box-sizing: border-box;
+  gap: 28.1px;
+  min-width: 408px;
+  max-width: 100%;
+}
+.what-retailer-poundspng-icon {
+  height: 175.3px;
+  width: 302px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.background9 {
+  align-self: stretch;
+  border-radius: 12px;
+  background-color: #6c63ff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.div5 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 11px;
+}
+.background-frame,
+.background10 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.background10 {
+  width: 35px;
+  border-radius: 17.5px;
+  background-color: #061121;
+  justify-content: flex-start;
+  padding: 5.3px 11px 7.7px;
+  box-sizing: border-box;
+}
+.background-frame {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 21px 0 20px;
+}
+.and-they-are,
+.preferred-retailer,
+.their-egift-card {
+  margin: 0;
+}
+.their-egift-card-container {
+  position: relative;
+  line-height: 135%;
+  color: #1b1c1e;
+}
+.frame-parent4 {
+  width: 289px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.backgroundshadow-child {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 0 0 1px;
+}
+.backgroundshadow2 {
+  flex: 1;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+  background-color: rgba(215, 212, 255, 0.5);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 24px 24px 22.5px;
+  box-sizing: border-box;
+  gap: 28.1px;
+  min-width: 408px;
+  max-width: 100%;
+}
+.how-it-works-steps {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 24px;
+  max-width: 100%;
+  font-size: 16px;
+  color: #fff;
+  font-family: Inter;
+}
+.link6 {
+  height: 48px;
+  width: 211.7px;
+}
+.signup-button {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.how-it-works,
+.how-it-works-content {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.how-it-works-content {
+  width: 1680px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 30px;
+}
+.how-it-works {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px 160px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 35px;
+  color: #1b1c1e;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 800px) {
+  .heading-22 {
+    font-size: 28px;
+    line-height: 39px;
+  }
+  .backgroundshadow,
+  .backgroundshadow1,
+  .backgroundshadow2 {
+    min-width: 100%;
+  }
+  .how-it-works-content {
+    gap: 15px;
+  }
+  .how-it-works {
+    padding-bottom: 104px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-22 {
+    font-size: 21px;
+    line-height: 29px;
+  }
+  .backgroundshadow,
+  .backgroundshadow1,
+  .backgroundshadow2 {
+    padding-top: 20px;
+    padding-bottom: 41px;
+    box-sizing: border-box;
+  }
+  .backgroundshadow1,
+  .backgroundshadow2 {
+    padding-bottom: 28px;
+  }
+  .backgroundshadow2 {
+    padding-bottom: 20px;
+  }
+}

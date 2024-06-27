@@ -1,0 +1,73 @@
+.image-icon {
+  position: absolute;
+  top: -24px;
+  left: calc(50% - 120px);
+  border-radius: 8px;
+  width: 240px;
+  height: 155px;
+  object-fit: cover;
+  z-index: 1;
+}
+.background11 {
+  align-self: stretch;
+  height: 156px;
+  position: relative;
+  border-radius: 8px 8px 0 20px;
+  background-color: #e5d9c4;
+}
+.all-in-1-choice,
+.gift-card {
+  margin: 0;
+}
+.all-in-1-choice-gift-container {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.background-icon2 {
+  height: 32px;
+  width: 32px;
+  position: relative;
+  border-radius: 32px 0 16px 0;
+}
+.gift-card-name-border {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.gift-card-name-background,
+.link13 {
+  width: 274px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11px;
+}
+.link13 {
+  width: 298px;
+  margin: 0 !important;
+  position: absolute;
+  top: 24px;
+  left: 0;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  border-radius: 8px 8px 16px 8px;
+  background-color: #fff;
+  align-items: flex-end;
+  gap: 27px;
+  text-align: left;
+  font-size: 24px;
+  color: #0f0a1b;
+  font-family: Inter;
+}
+@media screen and (max-width: 450px) {
+  .all-in-1-choice-gift-container {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

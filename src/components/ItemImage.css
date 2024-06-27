@@ -1,0 +1,162 @@
+.item-divider {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #d9d9d9;
+  box-sizing: border-box;
+}
+.branding-uk-card-boxtpng-icon {
+  height: 100px;
+  width: 100px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.gift-card1,
+.worth-usd-400 {
+  width: 179px;
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+}
+.item-caption {
+  width: 284px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+  gap: 8px;
+}
+.credits,
+.quantity-divider {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+}
+.quantity-divider {
+  min-width: 71px;
+  white-space: nowrap;
+}
+.credits {
+  min-width: 87px;
+}
+.item-quantity {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.icon-plus {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.increase-button {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.button-divider {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 12px;
+}
+.decrease-button {
+  margin: 0;
+  height: 19px;
+  width: 16px;
+}
+.control-buttons {
+  border-radius: 8px;
+  background-color: #fff;
+  border: 1px solid #000;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 7px;
+  gap: 26px;
+}
+.quantity-type {
+  align-self: stretch;
+  height: 38px;
+  font-family: "DM Sans";
+  font-weight: 700;
+  font-size: 18px;
+  color: #fff;
+}
+.item-actions,
+.quantity-controls {
+  display: flex;
+  align-items: flex-start;
+}
+.quantity-controls {
+  width: 116px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 15px;
+}
+.item-actions {
+  flex: 1;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 89px 0 0;
+  box-sizing: border-box;
+  min-width: 203px;
+  max-width: 100%;
+  gap: 20px;
+}
+.action-divider {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 71px;
+  white-space: nowrap;
+}
+.item-image,
+.item-thumbnails {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.item-thumbnails {
+  width: 900px;
+  flex-direction: row;
+  gap: 15px;
+}
+.item-image {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 35px;
+  text-align: left;
+  font-size: 18px;
+  color: #000;
+  font-family: Inter;
+}
+@media screen and (max-width: 750px) {
+  .item-thumbnails {
+    flex-wrap: wrap;
+  }
+  .item-image {
+    gap: 17px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .item-actions {
+    flex-wrap: wrap;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

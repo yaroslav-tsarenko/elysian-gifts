@@ -1,0 +1,308 @@
+.business,
+.digital-gift-cards,
+.elysian-gifts-uk {
+  margin: 0;
+}
+.elysian-gifts-uk-container1 {
+  width: 100%;
+}
+.elysian-gifts-uk-container {
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 48px;
+  line-height: 110%;
+  font-weight: 700;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  width: 488.8px;
+  height: 159px;
+}
+.retailers-across-the,
+.send-your-customers {
+  margin: 0;
+}
+.send-your-customers-container1 {
+  width: 100%;
+}
+.send-your-customers-container {
+  position: absolute;
+  top: 194.6px;
+  left: 0;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  width: 494.6px;
+  height: 51px;
+}
+.fast-convenient-corporate,
+.includes-100-in-store,
+.send-instantly-via {
+  margin: 0;
+}
+.item-fast-container1 {
+  width: 100%;
+}
+.item-fast-container {
+  position: absolute;
+  top: 266.4px;
+  left: 0;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  width: 404px;
+  height: 65px;
+}
+.link4,
+.link5 {
+  position: absolute;
+  top: 364.1px;
+  left: 0;
+}
+.link5 {
+  left: 225.2px;
+}
+.elysian-gifts-uk-digital-gift-parent {
+  align-self: stretch;
+  height: 436.1px;
+  position: relative;
+}
+.hero-left {
+  width: 540px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 32.6px 0 0;
+  box-sizing: border-box;
+  min-width: 540px;
+  max-width: 100%;
+}
+.brand-logos-child {
+  height: 501.4px;
+  width: 250px;
+  position: relative;
+}
+.a-wide-range,
+.included {
+  margin: 0;
+}
+.a-wide-range-container {
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: 0;
+  line-height: 24px;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+  text-decoration: none;
+}
+.amazonpng-icon,
+.argospng-icon,
+.asdapng-icon,
+.costapng-icon,
+.curryspcworldpng-icon,
+.tescopng-icon {
+  height: 54.8px;
+  width: 78.3px;
+  position: absolute;
+  margin: 0 !important;
+  top: 58px;
+  left: 0;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.argospng-icon,
+.asdapng-icon,
+.costapng-icon,
+.curryspcworldpng-icon,
+.tescopng-icon {
+  left: 88.3px;
+  object-fit: cover;
+}
+.argospng-icon,
+.asdapng-icon,
+.costapng-icon,
+.tescopng-icon {
+  left: 176.7px;
+}
+.asdapng-icon,
+.costapng-icon,
+.tescopng-icon {
+  top: 122.9px;
+  left: 0;
+  object-fit: contain;
+}
+.costapng-icon,
+.tescopng-icon {
+  left: 88.3px;
+}
+.tescopng-icon {
+  left: 176.7px;
+}
+.bqpng-icon,
+.decathlonpng-icon,
+.halfordspng-icon,
+.johnlewispng-icon,
+.marksandspencerpng-icon,
+.thebodyshoppng-icon {
+  height: 54.8px;
+  width: 78.3px;
+  position: absolute;
+  margin: 0 !important;
+  top: 187.7px;
+  left: 0;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.bqpng-icon,
+.halfordspng-icon,
+.johnlewispng-icon,
+.marksandspencerpng-icon,
+.thebodyshoppng-icon {
+  left: 88.3px;
+}
+.halfordspng-icon,
+.johnlewispng-icon,
+.marksandspencerpng-icon,
+.thebodyshoppng-icon {
+  left: 176.7px;
+}
+.halfordspng-icon,
+.marksandspencerpng-icon,
+.thebodyshoppng-icon {
+  top: 252.5px;
+  left: 0;
+}
+.marksandspencerpng-icon,
+.thebodyshoppng-icon {
+  left: 88.3px;
+}
+.marksandspencerpng-icon {
+  left: 176.7px;
+}
+.plus-more {
+  position: absolute;
+  margin: 0 !important;
+  top: 317.3px;
+  left: 0;
+  line-height: 24px;
+  font-weight: 700;
+  color: #fff;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 118px;
+}
+.brand-icons,
+.brand-icons-wrapper {
+  display: flex;
+  justify-content: flex-start;
+}
+.brand-icons {
+  align-self: stretch;
+  height: 341.3px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  position: relative;
+  gap: 10px 8.1px;
+}
+.brand-icons-wrapper {
+  width: 255px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 80px 0 0;
+  box-sizing: border-box;
+  min-width: 255px;
+}
+.brand-logos {
+  flex: 1;
+  justify-content: space-between;
+  min-width: 396px;
+  gap: 20px;
+  font-size: 20px;
+  font-family: "Open Sans";
+}
+.brand-logos,
+.hero,
+.hero-content {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.hero-content {
+  width: 1298px;
+  justify-content: flex-start;
+  gap: 148px;
+}
+.hero {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 20px 74.6px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: Inter;
+}
+@media screen and (max-width: 1350px) {
+  .hero-content {
+    gap: 74px;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .hero-left {
+    flex: 1;
+  }
+  .hero-content {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 800px) {
+  .elysian-gifts-uk-container {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .hero-left {
+    min-width: 100%;
+  }
+  .brand-icons-wrapper,
+  .brand-logos-child {
+    flex: 1;
+  }
+  .brand-logos {
+    flex-wrap: wrap;
+    min-width: 100%;
+  }
+  .hero-content {
+    gap: 37px;
+  }
+  .hero {
+    padding-bottom: 48px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .elysian-gifts-uk-container {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .a-wide-range-container,
+  .plus-more {
+    font-size: 16px;
+    line-height: 19px;
+  }
+  .brand-icons-wrapper {
+    padding-top: 52px;
+    box-sizing: border-box;
+  }
+  .hero-content {
+    gap: 18px;
+  }
+}

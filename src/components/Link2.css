@@ -1,0 +1,84 @@
+.imageshadow-icon {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  z-index: 1;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 1px;
+  transform: scale(1.142);
+}
+.wrapper-imageshadow {
+  position: absolute;
+  top: -24px;
+  left: calc(50% - 120px);
+  border-radius: 8px;
+  width: 240px;
+  height: 155px;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.background12 {
+  align-self: stretch;
+  height: 156px;
+  position: relative;
+  border-radius: 8px 8px 0 20px;
+  background-color: #378bc8;
+}
+.hotel-gift-card {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.background-parent,
+.hotel-gift-card-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.hotel-gift-card-wrapper {
+  flex-direction: row;
+  padding: 0 24px;
+}
+.background-parent {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 26px;
+}
+.background-icon3 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+  border-radius: 32px 0 16px 0;
+}
+.link14 {
+  width: 298px;
+  margin: 0 !important;
+  position: absolute;
+  top: 24px;
+  left: 345.5px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  border-radius: 8px 8px 16px 8px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 41px;
+  text-align: left;
+  font-size: 24px;
+  color: #0f0a1b;
+  font-family: Inter;
+}
+@media screen and (max-width: 450px) {
+  .hotel-gift-card {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

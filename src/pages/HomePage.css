@@ -1,0 +1,519 @@
+.elysian-gifts-is,
+.secure-and-free {
+  margin: 0;
+}
+.elysian-gifts-is-container {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 110%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.background,
+.platform-benefits {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.background {
+  flex: 1;
+  padding: 127px 120px;
+  background-image: url(/public/background@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 1;
+}
+.platform-benefits {
+  align-self: stretch;
+  padding: 0 0 80px;
+  text-align: left;
+  font-size: 48px;
+  color: #fff;
+  font-family: Inter;
+}
+.choice-and-convenience,
+.elysian-gifts-keeps,
+.happy-by-giving {
+  margin: 0;
+}
+.elysian-gifts-keeps-container {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 110%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.background1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 131.2px 120px 129.8px;
+  background-image: url(/public/background1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: 48px;
+  color: #fff;
+  font-family: Inter;
+}
+.mask-group-icon {
+  height: 30px;
+  width: 30px;
+  position: relative;
+  object-fit: cover;
+}
+.elysiangifts {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 89px;
+}
+.elysiangifts-wrapper,
+.footer-logo-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.elysiangifts-wrapper {
+  flex-direction: column;
+  padding: 4px 0 0;
+}
+.footer-logo-container {
+  flex-direction: row;
+  gap: 8px;
+}
+.unified-incentives-uk {
+  position: relative;
+  font-size: 14px;
+  line-height: 21px;
+}
+.company-number-10354856,
+.vat-number-274 {
+  position: relative;
+  line-height: 22px;
+}
+.icon-linkedinpng {
+  width: 40px;
+  height: 40px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.footer-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 13px;
+}
+.heading-4,
+.solutions {
+  position: relative;
+  display: inline-block;
+}
+.heading-4 {
+  line-height: 22px;
+  min-width: 86px;
+  white-space: nowrap;
+}
+.solutions {
+  line-height: 21px;
+  color: inherit;
+  text-decoration: none;
+  min-width: 62px;
+  flex-shrink: 0;
+}
+.item-link {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.features {
+  position: relative;
+  line-height: 21px;
+  color: inherit;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 58px;
+  flex-shrink: 0;
+}
+.item-link1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.gift-cards {
+  position: relative;
+  line-height: 21px;
+  color: inherit;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 68px;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.item-link2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.clients {
+  position: relative;
+  line-height: 21px;
+  color: inherit;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 46px;
+  flex-shrink: 0;
+}
+.item-link3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.pricing {
+  position: relative;
+  line-height: 21px;
+  color: inherit;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 46px;
+  flex-shrink: 0;
+}
+.contact-us-link,
+.item-link4,
+.list {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.item-link4 {
+  flex-direction: row;
+  padding: 0;
+}
+.contact-us-link,
+.list {
+  flex-direction: column;
+}
+.list {
+  align-self: stretch;
+  font-size: 14px;
+}
+.contact-us-link {
+  flex: 1;
+  gap: 31px;
+  min-width: 133px;
+  max-width: 178px;
+}
+.faq,
+.heading-41 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 61px;
+}
+.faq {
+  text-decoration: none;
+  line-height: 21px;
+  color: inherit;
+  min-width: 27px;
+  flex-shrink: 0;
+}
+.item-link5 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.client-agreement {
+  position: relative;
+  line-height: 21px;
+  display: inline-block;
+  min-width: 116px;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.item-link6 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.privacy-statement {
+  width: 122px;
+  position: relative;
+  line-height: 21px;
+  color: inherit;
+  display: inline-block;
+  text-decoration: none;
+  flex-shrink: 0;
+}
+.item-link7 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.system-status {
+  width: 96px;
+  position: relative;
+  line-height: 21px;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.item-link8,
+.list1,
+.support-header-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.item-link8 {
+  flex-direction: row;
+  padding: 0;
+}
+.list1,
+.support-header-container {
+  flex-direction: column;
+}
+.list1 {
+  align-self: stretch;
+  font-size: 14px;
+}
+.support-header-container {
+  flex: 1;
+  gap: 31px;
+  min-width: 133px;
+  max-width: 178px;
+}
+.heading-42,
+.sign-up {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 63px;
+}
+.sign-up {
+  line-height: 21px;
+  color: inherit;
+  text-decoration: none;
+  min-width: 52px;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.item-link9 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.login {
+  text-decoration: none;
+  position: relative;
+  line-height: 21px;
+  color: inherit;
+  display: inline-block;
+  min-width: 37px;
+  flex-shrink: 0;
+}
+.footer-lists,
+.item-link10,
+.list2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.item-link10 {
+  flex-direction: row;
+  padding: 0;
+}
+.footer-lists,
+.list2 {
+  flex-direction: column;
+}
+.list2 {
+  align-self: stretch;
+  font-size: 14px;
+}
+.footer-lists {
+  flex: 1;
+  gap: 31px;
+  min-width: 133px;
+  max-width: 178px;
+}
+.about-us,
+.heading-43 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 72px;
+}
+.about-us {
+  text-decoration: none;
+  line-height: 21px;
+  color: inherit;
+  min-width: 62px;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.item-link11 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.contact-us {
+  width: 75px;
+  position: relative;
+  line-height: 21px;
+  color: inherit;
+  display: inline-block;
+  text-decoration: none;
+  flex-shrink: 0;
+}
+.footer-lists1,
+.item-link12,
+.list3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.item-link12 {
+  flex-direction: row;
+  padding: 0;
+}
+.footer-lists1,
+.list3 {
+  flex-direction: column;
+}
+.list3 {
+  align-self: stretch;
+  font-size: 14px;
+}
+.footer-lists1 {
+  flex: 1;
+  gap: 31px;
+  min-width: 133px;
+  max-width: 178px;
+}
+.footer-navigation {
+  width: 827.4px;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 39px;
+  max-width: 100%;
+}
+.footer-1920,
+.footer-navigation,
+.homepage {
+  display: flex;
+  align-items: flex-start;
+}
+.footer-1920 {
+  align-self: stretch;
+  background-color: #6c63ff;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 64px 120px;
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: 20px;
+  z-index: 3;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-family: Inter;
+}
+.homepage {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1350px) {
+  .footer-1920 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .background,
+  .background1,
+  .footer-1920 {
+    padding-left: 60px;
+    padding-right: 60px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 800px) {
+  .elysian-gifts-is-container,
+  .elysian-gifts-keeps-container {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .background1 {
+    padding-left: 30px;
+    padding-right: 30px;
+    box-sizing: border-box;
+  }
+  .footer-navigation {
+    flex-wrap: wrap;
+  }
+  .footer-1920 {
+    padding-left: 30px;
+    padding-right: 30px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .elysian-gifts-is-container {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .background {
+    padding: 83px 20px;
+    box-sizing: border-box;
+  }
+  .platform-benefits {
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+  .elysian-gifts-keeps-container {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .background1 {
+    padding-top: 85px;
+    padding-bottom: 84px;
+    box-sizing: border-box;
+  }
+  .footer-navigation {
+    gap: 19px;
+  }
+}

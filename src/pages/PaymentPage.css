@@ -1,0 +1,175 @@
+.form-content-child {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.powered-by {
+  position: relative;
+  letter-spacing: 0.15em;
+  line-height: 150%;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 96px;
+}
+.payment-icons {
+  height: 24px;
+  width: 34px;
+  position: relative;
+  border-radius: 4px;
+  object-fit: cover;
+}
+.payment-info {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.footer-graphic-icon {
+  height: 21px;
+  width: 1px;
+  position: relative;
+}
+.legal,
+.refunds {
+  position: relative;
+  letter-spacing: 0.15em;
+  line-height: 150%;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 47px;
+}
+.refunds {
+  min-width: 69px;
+}
+.footer-note,
+.form-container,
+.form-content {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.footer-note {
+  flex-direction: row;
+  align-items: center;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+  gap: 22.6px;
+}
+.form-container,
+.form-content {
+  flex-direction: column;
+  align-items: flex-start;
+}
+.form-content {
+  align-self: stretch;
+  flex: 1;
+  gap: 99px;
+}
+.form-container {
+  height: 789px;
+  width: 437px;
+  padding: 215px 0 0;
+  box-sizing: border-box;
+  min-width: 437px;
+}
+.frame-child {
+  height: 1004px;
+  width: 960px;
+  position: relative;
+  box-shadow: -10px -10px 20px rgba(0, 0, 0, 0.05);
+  background-color: rgba(215, 212, 255, 0.5);
+  display: none;
+  max-width: 100%;
+}
+.form-container-parent,
+.rectangle-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.rectangle-parent {
+  flex: 1;
+  box-shadow: -10px -10px 20px rgba(0, 0, 0, 0.05);
+  background-color: rgba(215, 212, 255, 0.5);
+  justify-content: flex-start;
+  padding: 68px 38px;
+  min-width: 624px;
+  min-height: 1004px;
+}
+.form-container-parent {
+  width: 1529px;
+  justify-content: center;
+  padding: 0 0 0 20px;
+  gap: 112px;
+  text-align: left;
+  font-size: 12px;
+  color: #000;
+  font-family: Inter;
+}
+.paymentpage {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1275px) {
+  .form-container {
+    flex: 1;
+  }
+  .rectangle-parent {
+    min-height: auto;
+  }
+  .form-container-parent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .form-container,
+  .rectangle-parent {
+    padding-top: 140px;
+    box-sizing: border-box;
+  }
+  .rectangle-parent {
+    padding-top: 44px;
+    padding-bottom: 44px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .form-container {
+    min-width: 100%;
+  }
+  .rectangle-parent {
+    padding-top: 29px;
+    padding-bottom: 29px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .form-container-parent {
+    gap: 56px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .form-content {
+    gap: 49px;
+  }
+  .form-container {
+    padding-top: 91px;
+    box-sizing: border-box;
+  }
+  .form-container-parent {
+    gap: 28px;
+  }
+}

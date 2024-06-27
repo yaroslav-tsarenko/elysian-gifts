@@ -1,0 +1,401 @@
+.user-account {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.header {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 54px;
+  font-family: Inter;
+  font-weight: 500;
+  font-size: 18px;
+  color: #000;
+}
+.branding-uk-card-boxtpng-icon {
+  height: 100px;
+  width: 100px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.discount-20-off,
+.gift-card {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+}
+.product,
+.title {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.title {
+  flex: 1;
+  flex-direction: column;
+  gap: 8px;
+}
+.product {
+  width: 294px;
+  flex-direction: row;
+  gap: 15px;
+}
+.download-info {
+  white-space: nowrap;
+}
+.credits,
+.download-info {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+}
+.download-item {
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.hrs,
+.up-time {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+}
+.download-item1 {
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.april-2024,
+.next-renewal {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+}
+.renewal-info {
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.icons-block {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.cancel {
+  position: relative;
+  line-height: 100%;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 42px;
+}
+.link4 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 7px;
+}
+.icons-block1 {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.renew {
+  position: relative;
+  line-height: 100%;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 43px;
+}
+.link5,
+.links {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 7px;
+}
+.links {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+  font-size: 12px;
+  font-family: Montserrat;
+}
+.download-renewal-container {
+  width: 167px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 42px;
+}
+.cart-row-1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 26px 0 0;
+  gap: 66px;
+  font-size: 18px;
+  font-family: Inter;
+}
+.separator {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #d9d9d9;
+  box-sizing: border-box;
+}
+.account-summary {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 36px;
+  max-width: 100%;
+}
+.user-details {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 105px;
+}
+.header1 {
+  align-self: stretch;
+  border-radius: 5px;
+  background-color: rgba(215, 212, 255, 0.5);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16px 24px;
+}
+.darnell-roob,
+.name {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 51px;
+}
+.darnell-roob {
+  text-align: right;
+  min-width: 110px;
+}
+.info-items {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0 25px;
+  gap: 20px;
+}
+.darnellroobhotmailcom,
+.email-address {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+}
+.email-address {
+  display: inline-block;
+  min-width: 123px;
+}
+.darnellroobhotmailcom {
+  text-align: right;
+  white-space: nowrap;
+}
+.info-items1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0 25px;
+  gap: 20px;
+}
+.basic,
+.plan {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 38px;
+}
+.basic {
+  text-align: right;
+  min-width: 47px;
+}
+.info-items2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0 25px;
+  gap: 20px;
+}
+.april-20241,
+.expiry-date {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 99px;
+}
+.april-20241 {
+  text-align: right;
+  min-width: 122px;
+}
+.info-items3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0 25px;
+  gap: 20px;
+}
+.auto-renewal,
+.on {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 119px;
+}
+.on {
+  text-align: right;
+  min-width: 25px;
+}
+.info-items4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0 25px;
+  gap: 20px;
+}
+.checkout-details,
+.personal-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.checkout-details {
+  align-self: stretch;
+  border-radius: 5px;
+  background-color: #fbfbfb;
+  padding: 0 0 36px;
+  gap: 36px;
+}
+.personal-info {
+  width: 504px;
+  min-width: 504px;
+  max-width: 100%;
+  font-size: 18px;
+  font-family: Inter;
+}
+.account-container,
+.account-details {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.account-details {
+  width: 1536px;
+  justify-content: flex-start;
+  gap: 47px;
+}
+.account-container {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 32px;
+  color: #000;
+  font-family: "DM Sans";
+}
+@media screen and (max-width: 1275px) {
+  .personal-info {
+    flex: 1;
+  }
+  .account-details {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .cart-row-1 {
+    flex-wrap: wrap;
+    gap: 33px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .user-account {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .cart-row-1 {
+    gap: 16px;
+  }
+  .account-summary {
+    gap: 18px;
+    min-width: 100%;
+  }
+  .info-items1 {
+    flex-wrap: wrap;
+  }
+  .checkout-details {
+    gap: 18px;
+  }
+  .personal-info {
+    gap: 23px;
+    min-width: 100%;
+  }
+  .account-details {
+    gap: 23px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .user-account {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .info-items,
+  .info-items2,
+  .info-items3 {
+    flex-wrap: wrap;
+  }
+}

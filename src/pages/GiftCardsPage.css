@@ -1,0 +1,520 @@
+.gift-cards1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.gift-cards-wrapper,
+.giftcardspage-inner {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.gift-cards-wrapper {
+  flex: 1;
+  overflow: hidden;
+  justify-content: center;
+  padding: 111px 20px 111px 22px;
+  background-image: url(/public/frame-1000007009@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.giftcardspage-inner {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 0 80px;
+  text-align: left;
+  font-size: 48px;
+  color: #fff;
+  font-family: Inter;
+}
+.heading-2 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 600;
+  font-family: inherit;
+}
+.heading-2-give-more-with-pre-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.sort-by {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 56px;
+}
+.sort-icon {
+  width: 10px;
+  height: 6px;
+  position: relative;
+}
+.sort-icon-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 8px 0 0;
+}
+.frame-parent2,
+.sort-by-btton {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.sort-by-btton {
+  width: 178px;
+  border-radius: 20px;
+  background-color: #fff;
+  border: 2px solid #1d1d1d;
+  box-sizing: border-box;
+  justify-content: flex-start;
+  padding: 9px 22px;
+  gap: 64px;
+  text-align: center;
+  font-size: 16px;
+}
+.frame-parent2 {
+  align-self: stretch;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+  font-size: 32px;
+}
+.a-favorite-brand,
+.choose-a-gift {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  max-width: 100%;
+}
+.link-terms {
+  position: relative;
+  line-height: 22px;
+  color: #1e54b7;
+}
+.background-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 8px 8px 0 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.heading-44,
+.special-edition {
+  position: relative;
+  line-height: 22px;
+}
+.special-edition {
+  line-height: 18px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 95.5px;
+}
+.heading-5 {
+  border-radius: 24px;
+  background-color: #ede6f0;
+  flex-direction: row;
+  padding: 2px 11px 4px 12px;
+  white-space: nowrap;
+  font-size: 13.3px;
+  color: #48096c;
+}
+.card-containers,
+.card-titles,
+.heading-5,
+.link {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.card-titles {
+  flex-direction: column;
+  gap: 9px;
+}
+.card-containers,
+.link {
+  flex-direction: row;
+  padding: 0 12px;
+}
+.link {
+  height: 260px;
+  width: 256px;
+  margin: 0 !important;
+  position: absolute;
+  top: 40px;
+  left: 0;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+    0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  background-color: transparent;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  padding: 0 0 29px;
+  box-sizing: border-box;
+  gap: 17px;
+}
+.background-icon1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 8px 8px 0 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.heading-45,
+.top-seller {
+  position: relative;
+  line-height: 22px;
+}
+.top-seller {
+  line-height: 18px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 64px;
+}
+.heading-51 {
+  border-radius: 24px;
+  background-color: #ede6f0;
+  flex-direction: row;
+  padding: 2px 11px 4px 12px;
+  white-space: nowrap;
+  font-size: 13.1px;
+  color: #48096c;
+}
+.heading-4-sephora-gift-card-parent,
+.heading-51,
+.link-inner {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.heading-4-sephora-gift-card-parent {
+  flex-direction: column;
+  gap: 9px;
+}
+.link-inner {
+  flex-direction: row;
+  padding: 0 12px;
+}
+.link-parent,
+.link1 {
+  display: flex;
+  box-sizing: border-box;
+}
+.link1 {
+  height: 260px;
+  width: 256px;
+  margin: 0 !important;
+  position: absolute;
+  top: 332px;
+  left: 854.4px;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+    0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  background-color: transparent;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 29px;
+  gap: 17px;
+}
+.link-parent {
+  align-self: stretch;
+  height: 1216px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding: 40px 0;
+  position: relative;
+}
+.frame-parent1 {
+  width: 1680px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 14px;
+  max-width: 100%;
+}
+.giftcardspage-child,
+.heading-21 {
+  display: flex;
+  justify-content: center;
+  max-width: 100%;
+}
+.giftcardspage-child {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 20px 80px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 16px;
+  color: #1e1e1e;
+  font-family: Inter;
+}
+.heading-21 {
+  margin: 0;
+  width: 1680px;
+  position: relative;
+  font-size: inherit;
+  line-height: 42px;
+  font-weight: 700;
+  font-family: inherit;
+  align-items: center;
+}
+.redeem-step-background {
+  position: relative;
+  line-height: 40px;
+  display: inline-block;
+  min-width: 9px;
+}
+.background2 {
+  border-radius: 40px;
+  background-color: #6c63ff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 15px 0.5px 16px;
+  text-align: center;
+  color: #fff;
+}
+.heading-3 {
+  position: relative;
+  font-size: 18px;
+  line-height: 21.6px;
+}
+.any-smartphone-tablet,
+.email-recipients-can,
+.gift-cards-are {
+  margin: 0;
+}
+.gift-cards-are-container {
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Inter;
+}
+.redeem-step-containers,
+.redeem-step-illustrations {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.redeem-step-illustrations {
+  gap: 19px;
+}
+.redeem-step-containers {
+  padding: 0 19px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.b {
+  position: relative;
+  line-height: 40px;
+  display: inline-block;
+  min-width: 9px;
+}
+.background3 {
+  border-radius: 40px;
+  background-color: #6c63ff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 15px 0.5px 16px;
+  text-align: center;
+  color: #fff;
+}
+.heading-31 {
+  position: relative;
+  font-size: 18px;
+  line-height: 21.6px;
+  display: inline-block;
+  max-width: 100%;
+}
+.any-combination-of,
+.total-available-balance,
+.your-gift-recipients {
+  margin: 0;
+}
+.your-gift-recipients-container {
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Inter;
+}
+.redeem-step-containers1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 19px;
+  max-width: 100%;
+}
+.b1 {
+  position: relative;
+  line-height: 40px;
+  display: inline-block;
+  min-width: 9px;
+}
+.background4 {
+  border-radius: 40px;
+  background-color: #6c63ff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 15px 0.5px 16px;
+  text-align: center;
+  color: #fff;
+}
+.heading-32 {
+  position: relative;
+  font-size: 18px;
+  line-height: 21.6px;
+}
+.barcode-to-the,
+.codes-into-the,
+.recipients-print-or {
+  margin: 0;
+}
+.recipients-print-or-container {
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Inter;
+}
+.redeem-step-containers-parent,
+.redeem-step-containers2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 19px;
+  max-width: 100%;
+}
+.redeem-step-containers-parent {
+  width: 1680px;
+  flex-direction: row;
+  padding: 0 15px 20px;
+  box-sizing: border-box;
+  gap: 161px;
+  text-align: left;
+  font-size: 14px;
+}
+.giftcardspage,
+.heading-2-how-can-gift-recip-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.heading-2-how-can-gift-recip-parent {
+  align-self: stretch;
+  background-color: rgba(215, 212, 255, 0.5);
+  align-items: center;
+  padding: 40px 20px;
+  box-sizing: border-box;
+  gap: 32px;
+  max-width: 100%;
+  text-align: center;
+  font-size: 35px;
+  color: #1b1c1e;
+  font-family: "Open Sans";
+}
+.giftcardspage {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  align-items: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1500px) {
+  .redeem-step-containers-parent {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 1225px) {
+  .giftcardspage-child {
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+  .redeem-step-containers-parent {
+    gap: 80px;
+  }
+}
+@media screen and (max-width: 850px) {
+  .gift-cards1 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .heading-2 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .frame-parent2 {
+    flex-wrap: wrap;
+  }
+  .giftcardspage-child {
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+  .heading-21 {
+    font-size: 28px;
+    line-height: 34px;
+  }
+  .redeem-step-containers-parent {
+    gap: 40px;
+  }
+  .heading-2-how-can-gift-recip-parent {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .gift-cards1 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .giftcardspage-inner {
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+  .heading-2 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .heading-21 {
+    font-size: 21px;
+    line-height: 25px;
+  }
+  .redeem-step-containers-parent {
+    gap: 20px;
+  }
+}

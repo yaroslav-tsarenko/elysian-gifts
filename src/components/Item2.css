@@ -1,0 +1,42 @@
+.curryspcworldpng-icon1 {
+  height: 80.3px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.curryspcworldpng-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 10px 0 2px;
+}
+.currys-pc-world {
+  position: relative;
+  line-height: 22px;
+  color: inherit;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 125px;
+}
+.item2 {
+  width: 138.8px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 1401.1px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px 3px 30.5px 9px;
+  box-sizing: border-box;
+  gap: 5.9px;
+  text-align: center;
+  font-size: 16px;
+  color: #212121;
+  font-family: Inter;
+}

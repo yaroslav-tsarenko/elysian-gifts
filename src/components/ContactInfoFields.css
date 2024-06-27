@@ -1,0 +1,240 @@
+.contact-information {
+  position: relative;
+  line-height: 22px;
+}
+.form-field {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 54px;
+  font-family: Inter;
+  font-size: 16px;
+  color: #000;
+}
+.contact-info-labels {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.payment-information {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: "DM Sans";
+  flex-shrink: 0;
+}
+.card-information {
+  display: inline-block;
+  min-width: 127px;
+}
+.card-information,
+.card-number-placeholder {
+  position: relative;
+  line-height: 22px;
+}
+.card-detail-fields,
+.card-detail-fields1,
+.card-detail-fields2 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  min-height: 24px;
+}
+.card-details-fields {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+.icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  min-height: 24px;
+}
+.form-field1 {
+  align-self: stretch;
+  border-radius: 4px;
+  border: 1px solid #d9d9d9;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 16px;
+  gap: 20px;
+  color: #d9d9d9;
+}
+.form-field2,
+.form-field3 {
+  border: 0;
+  background-color: transparent;
+  height: 54px;
+  flex: 1;
+  font-family: Inter;
+  font-size: 16px;
+  color: #d9d9d9;
+  min-width: 131px;
+}
+.card-information-parent,
+.expiry-date-fields {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.card-information-parent {
+  flex-direction: column;
+}
+.carholder-name {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 124px;
+}
+.form-field4 {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 54px;
+  font-family: Inter;
+  font-size: 16px;
+  color: #d9d9d9;
+}
+.contact-info-labels1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.country-or-region,
+.usa {
+  position: relative;
+  line-height: 22px;
+}
+.usa {
+  display: inline-block;
+  min-width: 33px;
+}
+.icon1,
+.region-dropdown-icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.icon1 {
+  display: none;
+}
+.form-field5 {
+  align-self: stretch;
+  border-radius: 4px;
+  border: 1px solid #d9d9d9;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 16px;
+  gap: 20px;
+  color: #d9d9d9;
+}
+.country-or-region-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.verification-placeholder {
+  margin: 0;
+  height: 21px;
+  width: 21px;
+  border-radius: 4px;
+  border: 1px solid #d9d9d9;
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.i-verified-that {
+  position: relative;
+  line-height: 22px;
+}
+.verification-placeholder-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  gap: 9px;
+  flex-shrink: 0;
+}
+.verification-graphic-icon {
+  width: 324.5px;
+  position: relative;
+  max-height: 100%;
+  max-width: 100%;
+}
+.i-verified-that1 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  max-width: 182%;
+  flex-shrink: 0;
+}
+.button2 {
+  align-self: stretch;
+  height: 76px;
+}
+.contact-info-fields {
+  width: 420px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  gap: 26px;
+  max-width: 100%;
+  z-index: 1;
+  text-align: left;
+  font-size: 16px;
+  color: #1c1c1c;
+  font-family: Inter;
+}
+@media screen and (max-width: 450px) {
+  .payment-information {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .expiry-date-fields,
+  .form-field1 {
+    flex-wrap: wrap;
+  }
+  .button2 {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

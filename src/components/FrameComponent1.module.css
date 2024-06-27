@@ -1,0 +1,93 @@
+.cancellationPeriod,
+.cancellationPeriod1 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.cancellationPeriod1 {
+  padding-left: 43px;
+}
+.cancellationPeriod {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+  font-weight: 700;
+}
+.timePeriod,
+.youMayCancel {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+}
+.timePeriod {
+  min-width: 113px;
+}
+.youMayCancel {
+  color: #4b2f2f;
+  max-width: 100%;
+}
+.periodColumns {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+  gap: 16px;
+  max-width: 100%;
+}
+.beyondTimePeriod,
+.cancellationsMadeAfter {
+  position: relative;
+  line-height: 22px;
+}
+.cancellationsMadeAfter {
+  color: #4b2f2f;
+  display: inline-block;
+  max-width: 100%;
+}
+.periodColumns1 {
+  align-self: stretch;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+  gap: 16px;
+}
+.cancellationPeriodParent,
+.periodColumns1,
+.periodContent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.periodContent {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 16px;
+  font-family: Inter;
+}
+.cancellationPeriodParent {
+  width: 1680px;
+  gap: 32px;
+  text-align: left;
+  font-size: 32px;
+  color: #262626;
+  font-family: "DM Sans";
+}
+@media screen and (max-width: 750px) {
+  .cancellationPeriod {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .cancellationPeriodParent {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .cancellationPeriod {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}
